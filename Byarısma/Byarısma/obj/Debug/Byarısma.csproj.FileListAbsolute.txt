@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\bin\Debug\Byarısma.exe.config
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\bin\Debug\Byarısma.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\bin\Debug\Byarısma.pdb
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\obj\Debug\Byarısma.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\obj\Debug\Byarısma.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\obj\Debug\Byarısma.exe
+C:\Users\karab\OneDrive\Masaüstü\c#\Byarısma\Byarısma\obj\Debug\Byarısma.pdb
