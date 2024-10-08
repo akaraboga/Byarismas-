@@ -1,4 +1,4 @@
-# Byarismas-Pratik - Kim Milyoner Olmak İster ?
+# Byarismasi-Pratik - Kim Milyoner Olmak İster ?
 Bir bilgi yarışması yapıyoruz!
 
 2 cevap şıklı 3 adet sorumuz var ! ( Aşağıdaki sorular örnektir, kendi sorularınızla programı editleyebilirsiniz.)
